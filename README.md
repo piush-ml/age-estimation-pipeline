@@ -28,7 +28,7 @@ Users can upload a face image and the app returns a predicted age range along wi
 
 ## 📁 Project Structure
 ```text
-age-estimation-app/
+age-estimation-pipeline/
 │
 ├── app.py              # Main application logic
 ├── requirements.txt    # Project dependencies
