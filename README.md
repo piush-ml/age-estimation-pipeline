@@ -1,6 +1,4 @@
-Here is the complete, consolidated Markdown content for your project. This includes everything from the title down to the `requirements.txt` file, formatted specifically for a single `.md` file.
 
-```markdown
 # 🧠 Face Age Estimation App (ViT + Gradio)
 
 This project is a web application that predicts the age range of a person from a face image using a pretrained **Vision Transformer (ViT)** model from Hugging Face and a **Gradio** interface.
